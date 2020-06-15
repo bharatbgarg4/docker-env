@@ -1,0 +1,90 @@
+2020-06-13 19:42:36,751 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 19:42:36,752 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 19:42:36,753 checking status of http://google.com:80
+2020-06-13 19:42:36,755 starting at 2020-06-13 19:42:36.755647
+2020-06-13 19:42:36,757 ending at 2020-06-13 19:44:36.755647
+2020-06-13 19:42:36,977 System under test is up at http://google.com:80/
+2020-06-13 20:14:16,475 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:14:16,479 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:14:16,482 checking status of http://google.com:80
+2020-06-13 20:14:16,484 starting at 2020-06-13 20:14:16.483995
+2020-06-13 20:14:16,485 ending at 2020-06-13 20:16:16.483995
+2020-06-13 20:14:16,862 System under test is up at http://google.com:80/
+2020-06-13 20:16:14,673 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:16:14,675 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:16:14,676 checking status of http://google.com:80
+2020-06-13 20:16:14,677 starting at 2020-06-13 20:16:14.677271
+2020-06-13 20:16:14,678 ending at 2020-06-13 20:18:14.677271
+2020-06-13 20:16:15,109 System under test is up at http://google.com:80/
+2020-06-13 20:18:15,376 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:18:15,382 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:18:15,389 checking status of http://google.com:80
+2020-06-13 20:18:15,391 starting at 2020-06-13 20:18:15.391030
+2020-06-13 20:18:15,392 ending at 2020-06-13 20:20:15.391030
+2020-06-13 20:18:15,842 System under test is up at http://google.com:80/
+2020-06-13 20:20:10,858 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:20:10,859 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:20:10,860 checking status of http://google.com:80
+2020-06-13 20:20:10,861 starting at 2020-06-13 20:20:10.861759
+2020-06-13 20:20:10,862 ending at 2020-06-13 20:22:10.861759
+2020-06-13 20:20:11,288 System under test is up at http://google.com:80/
+2020-06-13 20:22:16,166 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:22:16,179 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:22:16,191 checking status of http://google.com:80
+2020-06-13 20:22:16,216 starting at 2020-06-13 20:22:16.215866
+2020-06-13 20:22:16,220 ending at 2020-06-13 20:24:16.215866
+2020-06-13 20:22:16,626 System under test is up at http://google.com:80/
+2020-06-13 20:24:13,567 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:24:13,568 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:24:13,569 checking status of http://google.com:80
+2020-06-13 20:24:13,572 starting at 2020-06-13 20:24:13.572435
+2020-06-13 20:24:13,573 ending at 2020-06-13 20:26:13.572435
+2020-06-13 20:24:13,808 System under test is up at http://google.com:80/
+2020-06-13 20:26:12,066 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:26:12,067 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:26:12,069 checking status of http://google.com:80
+2020-06-13 20:26:12,069 starting at 2020-06-13 20:26:12.069790
+2020-06-13 20:26:12,070 ending at 2020-06-13 20:28:12.069790
+2020-06-13 20:26:12,246 System under test is up at http://google.com:80/
+2020-06-13 20:28:11,545 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:28:11,546 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:28:11,547 checking status of http://google.com:80
+2020-06-13 20:28:11,548 starting at 2020-06-13 20:28:11.548544
+2020-06-13 20:28:11,549 ending at 2020-06-13 20:30:11.548544
+2020-06-13 20:28:11,716 System under test is up at http://google.com:80/
+2020-06-13 20:30:18,944 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:30:18,945 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:30:18,946 checking status of http://google.com:80
+2020-06-13 20:30:18,947 starting at 2020-06-13 20:30:18.947550
+2020-06-13 20:30:18,948 ending at 2020-06-13 20:32:18.947550
+2020-06-13 20:30:19,192 System under test is up at http://google.com:80/
+2020-06-13 20:35:13,744 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:35:13,745 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:35:13,746 checking status of http://google.com:80
+2020-06-13 20:35:13,747 starting at 2020-06-13 20:35:13.747714
+2020-06-13 20:35:13,752 ending at 2020-06-13 20:37:13.747714
+2020-06-13 20:35:13,969 System under test is up at http://google.com:80/
+2020-06-13 20:42:13,511 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:42:13,512 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:42:13,514 checking status of http://google.com:80
+2020-06-13 20:42:13,519 starting at 2020-06-13 20:42:13.518789
+2020-06-13 20:42:13,520 ending at 2020-06-13 20:44:13.518789
+2020-06-13 20:42:13,813 System under test is up at http://google.com:80/
+2020-06-13 20:49:14,899 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:49:14,900 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:49:14,902 checking status of http://google.com:80
+2020-06-13 20:49:14,902 starting at 2020-06-13 20:49:14.902846
+2020-06-13 20:49:14,903 ending at 2020-06-13 20:51:14.902846
+2020-06-13 20:49:15,163 System under test is up at http://google.com:80/
+2020-06-13 20:56:13,536 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 20:56:13,538 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 20:56:13,539 checking status of http://google.com:80
+2020-06-13 20:56:13,540 starting at 2020-06-13 20:56:13.540296
+2020-06-13 20:56:13,541 ending at 2020-06-13 20:58:13.540296
+2020-06-13 20:56:13,836 System under test is up at http://google.com:80/
+2020-06-13 21:00:15,168 starting /opt/work/tools/systemstat/sutstat
+2020-06-13 21:00:15,169 command line options: ['--verbose', '--stdout', '--url', 'http://google.com:80', '--logfile', '/opt/work/sutstat.log']
+2020-06-13 21:00:15,170 checking status of http://google.com:80
+2020-06-13 21:00:15,171 starting at 2020-06-13 21:00:15.171501
+2020-06-13 21:00:15,172 ending at 2020-06-13 21:02:15.171501
+2020-06-13 21:00:15,396 System under test is up at http://google.com:80/

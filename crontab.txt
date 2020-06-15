@@ -1,0 +1,1 @@
+*/2 * * * * export PATH=$PATH:/usr/local/bin/;cd /Users/varindersingh/Dropbox/Mac_Documents/Workspace/seleniumconf2018/template/; export DOCKER_TTY_FLAGS=""; make test-env-up >> crontab.log 2>&1 && make test >> crontab.log 2>&1; make test-env-down >> crontab.log 2>&1
