@@ -1,6 +1,6 @@
-BROWSER?=firefox
+BROWSER=chrome
 COMMAND=bash
-DCYML_GRID=${CURDIR}/docker/grid/docker-compose.yml
+DCYML_GRID=${CURDIR}/docker-compose.yml
 GRID_HOST=selenium-hub
 GRID_PORT=4444
 GRID_SCHEME=http
@@ -15,7 +15,6 @@ RERUN_FAILURES?=0
 RESULT_XML?=result.xml
 SCALE=1
 SCALE_CHROME=${SCALE}
-SCALE_FIREFOX=${SCALE}
 SELENIUM_VERSION=3.8.1-dubnium
 SUT_HOST=google.com
 SUT_PORT=80
@@ -106,7 +105,7 @@ wait-for-systems-up:
 	    ${TRE_IMAGE} \
 	    ./wait_for_systems_up.sh \
 	        -g '${GRID_SCHEME}://${GRID_HOST}:${GRID_PORT}' \
-	        -n $$(( ${SCALE_FIREFOX} + ${SCALE_CHROME} )) \
+	        -n $$(( ${SCALE_CHROME} )) \
 	        -l ${LOGS_DIR} \
 	        -s '${SUT_SCHEME}://${SUT_HOST}:${SUT_PORT}'
 
@@ -114,7 +113,7 @@ grid-up: network-up
 	NETWORK=${NETWORK} \
 	GRID_TIMEOUT=${GRID_TIMEOUT} \
 	SELENIUM_VERSION=${SELENIUM_VERSION} \
-	docker-compose -f ${DCYML_GRID} -p ${PROJECT} up -d --scale firefox=${SCALE_FIREFOX} --scale chrome=${SCALE_CHROME}
+	docker-compose -f ${DCYML_GRID} -p ${PROJECT} up -d --scale chrome=${SCALE_CHROME}
 
 grid-down:
 	NETWORK=${NETWORK} \

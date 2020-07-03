@@ -18,17 +18,6 @@ services:
       - HUB_PORT_4444_TCP_PORT=4444
     volumes:
       - '/dev/shm:/dev/shm'
-  firefox:
-    image: selenium/node-firefox-debug:${SELENIUM_VERSION}
-    ports:
-      - '5900'
-    depends_on:
-      - selenium-hub
-    environment:
-      - HUB_PORT_4444_TCP_ADDR=selenium-hub
-      - HUB_PORT_4444_TCP_PORT=4444
-    volumes:
-      - '/dev/shm:/dev/shm'
 networks:
   default:
     external:

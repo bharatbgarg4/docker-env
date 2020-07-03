@@ -1,163 +1,214 @@
-2020-06-13 20:35:06,841 starting /opt/work/tools/systemstat/gridstat
-2020-06-13 20:35:06,842 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-13 20:35:06,845 checking status of http://selenium-hub:4444
-2020-06-13 20:35:06,847 starting at 2020-06-13 20:35:06.847056
-2020-06-13 20:35:06,854 ending at 2020-06-13 20:37:06.847056
-2020-06-13 20:35:06,929 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:07,937 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:08,945 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:09,958 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:11,424 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:11,425 0 of 2 nodes are attached
-2020-06-13 20:35:11,427 waiting on 2 node(s) to attach
-2020-06-13 20:35:12,440 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:12,442 0 of 2 nodes are attached
-2020-06-13 20:35:12,443 waiting on 2 node(s) to attach
-2020-06-13 20:35:13,461 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:35:13,462 2 of 2 nodes are attached
-2020-06-13 20:35:13,463 all nodes are attached
-2020-06-13 20:35:13,464 2 of 2 nodes are ready
-2020-06-13 20:35:13,465 all nodes are ready
-2020-06-13 20:42:06,710 starting /opt/work/tools/systemstat/gridstat
-2020-06-13 20:42:06,711 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-13 20:42:06,712 checking status of http://selenium-hub:4444
-2020-06-13 20:42:06,714 starting at 2020-06-13 20:42:06.714106
-2020-06-13 20:42:06,715 ending at 2020-06-13 20:44:06.714106
-2020-06-13 20:42:06,734 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:07,739 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:08,748 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:10,185 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:10,186 0 of 2 nodes are attached
-2020-06-13 20:42:10,187 waiting on 2 node(s) to attach
-2020-06-13 20:42:11,204 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:11,205 0 of 2 nodes are attached
-2020-06-13 20:42:11,206 waiting on 2 node(s) to attach
-2020-06-13 20:42:12,215 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:12,216 0 of 2 nodes are attached
-2020-06-13 20:42:12,217 waiting on 2 node(s) to attach
-2020-06-13 20:42:13,227 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:42:13,230 2 of 2 nodes are attached
-2020-06-13 20:42:13,232 all nodes are attached
-2020-06-13 20:42:13,235 2 of 2 nodes are ready
-2020-06-13 20:42:13,238 all nodes are ready
-2020-06-13 20:49:08,131 starting /opt/work/tools/systemstat/gridstat
-2020-06-13 20:49:08,132 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-13 20:49:08,135 checking status of http://selenium-hub:4444
-2020-06-13 20:49:08,136 starting at 2020-06-13 20:49:08.135833
-2020-06-13 20:49:08,136 ending at 2020-06-13 20:51:08.135833
-2020-06-13 20:49:08,156 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:09,160 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:10,165 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:11,526 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:11,527 0 of 2 nodes are attached
-2020-06-13 20:49:11,528 waiting on 2 node(s) to attach
-2020-06-13 20:49:12,552 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:12,553 0 of 2 nodes are attached
-2020-06-13 20:49:12,554 waiting on 2 node(s) to attach
-2020-06-13 20:49:13,571 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:13,572 0 of 2 nodes are attached
-2020-06-13 20:49:13,573 waiting on 2 node(s) to attach
-2020-06-13 20:49:14,586 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:49:14,586 2 of 2 nodes are attached
-2020-06-13 20:49:14,587 all nodes are attached
-2020-06-13 20:49:14,588 2 of 2 nodes are ready
-2020-06-13 20:49:14,589 all nodes are ready
-2020-06-13 20:56:06,847 starting /opt/work/tools/systemstat/gridstat
-2020-06-13 20:56:06,848 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-13 20:56:06,849 checking status of http://selenium-hub:4444
-2020-06-13 20:56:06,851 starting at 2020-06-13 20:56:06.850637
-2020-06-13 20:56:06,854 ending at 2020-06-13 20:58:06.850637
-2020-06-13 20:56:06,870 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:07,877 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:08,883 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:10,175 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:10,176 0 of 2 nodes are attached
-2020-06-13 20:56:10,177 waiting on 2 node(s) to attach
-2020-06-13 20:56:11,198 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:11,199 0 of 2 nodes are attached
-2020-06-13 20:56:11,200 waiting on 2 node(s) to attach
-2020-06-13 20:56:12,217 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:12,218 0 of 2 nodes are attached
-2020-06-13 20:56:12,220 waiting on 2 node(s) to attach
-2020-06-13 20:56:13,232 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 20:56:13,239 2 of 2 nodes are attached
-2020-06-13 20:56:13,240 all nodes are attached
-2020-06-13 20:56:13,241 2 of 2 nodes are ready
-2020-06-13 20:56:13,242 all nodes are ready
-2020-06-13 21:00:07,525 starting /opt/work/tools/systemstat/gridstat
-2020-06-13 21:00:07,526 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-13 21:00:07,527 checking status of http://selenium-hub:4444
-2020-06-13 21:00:07,528 starting at 2020-06-13 21:00:07.527808
-2020-06-13 21:00:07,528 ending at 2020-06-13 21:02:07.527808
-2020-06-13 21:00:07,540 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:08,548 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:09,557 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:10,562 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:11,566 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:12,886 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:12,887 0 of 2 nodes are attached
-2020-06-13 21:00:12,888 waiting on 2 node(s) to attach
-2020-06-13 21:00:13,916 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:13,916 0 of 2 nodes are attached
-2020-06-13 21:00:13,917 waiting on 2 node(s) to attach
-2020-06-13 21:00:14,907 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-13 21:00:14,908 2 of 2 nodes are attached
-2020-06-13 21:00:14,909 all nodes are attached
-2020-06-13 21:00:14,910 2 of 2 nodes are ready
-2020-06-13 21:00:14,911 all nodes are ready
-2020-06-15 15:31:34,997 starting /opt/work/tools/systemstat/gridstat
-2020-06-15 15:31:34,998 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
-2020-06-15 15:31:34,999 checking status of http://selenium-hub:4444
-2020-06-15 15:31:35,000 starting at 2020-06-15 15:31:35.000530
-2020-06-15 15:31:35,002 ending at 2020-06-15 15:33:35.000530
-2020-06-15 15:31:35,038 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:35,039 1 of 2 nodes are attached
-2020-06-15 15:31:35,040 waiting on 1 node(s) to attach
-2020-06-15 15:31:36,051 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:36,053 1 of 2 nodes are attached
-2020-06-15 15:31:36,054 waiting on 1 node(s) to attach
-2020-06-15 15:31:37,065 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:37,066 1 of 2 nodes are attached
-2020-06-15 15:31:37,067 waiting on 1 node(s) to attach
-2020-06-15 15:31:38,079 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:38,080 1 of 2 nodes are attached
-2020-06-15 15:31:38,081 waiting on 1 node(s) to attach
-2020-06-15 15:31:39,091 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:39,093 1 of 2 nodes are attached
-2020-06-15 15:31:39,093 waiting on 1 node(s) to attach
-2020-06-15 15:31:40,104 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:40,106 1 of 2 nodes are attached
-2020-06-15 15:31:40,107 waiting on 1 node(s) to attach
-2020-06-15 15:31:41,122 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:41,123 1 of 2 nodes are attached
-2020-06-15 15:31:41,124 waiting on 1 node(s) to attach
-2020-06-15 15:31:42,137 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:42,140 1 of 2 nodes are attached
-2020-06-15 15:31:42,140 waiting on 1 node(s) to attach
-2020-06-15 15:31:43,151 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:43,152 1 of 2 nodes are attached
-2020-06-15 15:31:43,153 waiting on 1 node(s) to attach
-2020-06-15 15:31:44,162 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:44,164 1 of 2 nodes are attached
-2020-06-15 15:31:44,165 waiting on 1 node(s) to attach
-2020-06-15 15:31:45,176 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:45,181 1 of 2 nodes are attached
-2020-06-15 15:31:45,183 waiting on 1 node(s) to attach
-2020-06-15 15:31:46,200 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:46,236 1 of 2 nodes are attached
-2020-06-15 15:31:46,251 waiting on 1 node(s) to attach
-2020-06-15 15:31:47,286 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:47,288 1 of 2 nodes are attached
-2020-06-15 15:31:47,289 waiting on 1 node(s) to attach
-2020-06-15 15:31:48,299 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:48,302 1 of 2 nodes are attached
-2020-06-15 15:31:48,303 waiting on 1 node(s) to attach
-2020-06-15 15:31:49,322 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:49,325 1 of 2 nodes are attached
-2020-06-15 15:31:49,330 waiting on 1 node(s) to attach
-2020-06-15 15:31:50,349 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:50,353 1 of 2 nodes are attached
-2020-06-15 15:31:50,354 waiting on 1 node(s) to attach
-2020-06-15 15:31:51,371 hub is up at http://selenium-hub:4444/grid/api/hub
-2020-06-15 15:31:51,376 1 of 2 nodes are attached
-2020-06-15 15:31:51,379 waiting on 1 node(s) to attach
+2020-06-30 15:46:17,589 starting /opt/work/tools/systemstat/gridstat
+2020-06-30 15:46:17,589 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
+2020-06-30 15:46:17,590 checking status of http://selenium-hub:4444
+2020-06-30 15:46:17,590 starting at 2020-06-30 15:46:17.590185
+2020-06-30 15:46:17,590 ending at 2020-06-30 15:48:17.590185
+2020-06-30 15:46:17,597 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:17,598 1 of 2 nodes are attached
+2020-06-30 15:46:17,598 waiting on 1 node(s) to attach
+2020-06-30 15:46:18,602 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:18,602 1 of 2 nodes are attached
+2020-06-30 15:46:18,602 waiting on 1 node(s) to attach
+2020-06-30 15:46:19,606 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:19,606 1 of 2 nodes are attached
+2020-06-30 15:46:19,606 waiting on 1 node(s) to attach
+2020-06-30 15:46:20,611 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:20,611 1 of 2 nodes are attached
+2020-06-30 15:46:20,611 waiting on 1 node(s) to attach
+2020-06-30 15:46:21,615 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:21,615 1 of 2 nodes are attached
+2020-06-30 15:46:21,615 waiting on 1 node(s) to attach
+2020-06-30 15:46:22,619 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:22,619 1 of 2 nodes are attached
+2020-06-30 15:46:22,620 waiting on 1 node(s) to attach
+2020-06-30 15:46:23,625 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:23,625 1 of 2 nodes are attached
+2020-06-30 15:46:23,625 waiting on 1 node(s) to attach
+2020-06-30 15:46:24,629 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:24,629 1 of 2 nodes are attached
+2020-06-30 15:46:24,629 waiting on 1 node(s) to attach
+2020-06-30 15:46:25,634 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:25,634 1 of 2 nodes are attached
+2020-06-30 15:46:25,634 waiting on 1 node(s) to attach
+2020-06-30 15:46:26,638 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:26,638 1 of 2 nodes are attached
+2020-06-30 15:46:26,638 waiting on 1 node(s) to attach
+2020-06-30 15:46:27,642 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:27,642 1 of 2 nodes are attached
+2020-06-30 15:46:27,642 waiting on 1 node(s) to attach
+2020-06-30 15:46:28,646 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:28,647 1 of 2 nodes are attached
+2020-06-30 15:46:28,647 waiting on 1 node(s) to attach
+2020-06-30 15:46:29,651 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:29,651 1 of 2 nodes are attached
+2020-06-30 15:46:29,651 waiting on 1 node(s) to attach
+2020-06-30 15:46:30,655 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:30,655 1 of 2 nodes are attached
+2020-06-30 15:46:30,655 waiting on 1 node(s) to attach
+2020-06-30 15:46:31,659 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:31,659 1 of 2 nodes are attached
+2020-06-30 15:46:31,659 waiting on 1 node(s) to attach
+2020-06-30 15:46:32,663 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:32,663 1 of 2 nodes are attached
+2020-06-30 15:46:32,663 waiting on 1 node(s) to attach
+2020-06-30 15:46:33,667 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:33,668 1 of 2 nodes are attached
+2020-06-30 15:46:33,668 waiting on 1 node(s) to attach
+2020-06-30 15:46:34,672 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:34,672 1 of 2 nodes are attached
+2020-06-30 15:46:34,672 waiting on 1 node(s) to attach
+2020-06-30 15:46:35,676 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-06-30 15:46:35,676 1 of 2 nodes are attached
+2020-06-30 15:46:35,676 waiting on 1 node(s) to attach
+2020-07-01 20:17:04,962 starting /opt/work/tools/systemstat/gridstat
+2020-07-01 20:17:04,973 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
+2020-07-01 20:17:04,973 checking status of http://selenium-hub:4444
+2020-07-01 20:17:04,973 starting at 2020-07-01 20:17:04.973621
+2020-07-01 20:17:04,973 ending at 2020-07-01 20:19:04.973621
+2020-07-01 20:17:05,089 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:06,096 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:07,100 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:08,105 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:09,112 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:10,118 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:11,133 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:12,138 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:13,145 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:14,163 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:15,223 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:21,287 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:22,355 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:23,362 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:24,369 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:25,376 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:26,383 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:27,390 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:28,393 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:29,401 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:30,407 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:31,446 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:32,637 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:33,679 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:34,745 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:35,806 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:36,812 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:37,818 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:38,824 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:39,829 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:40,886 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:17:41,891 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:50,870 starting /opt/work/tools/systemstat/gridstat
+2020-07-01 20:20:50,870 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
+2020-07-01 20:20:50,870 checking status of http://selenium-hub:4444
+2020-07-01 20:20:50,870 starting at 2020-07-01 20:20:50.870654
+2020-07-01 20:20:50,870 ending at 2020-07-01 20:22:50.870654
+2020-07-01 20:20:51,028 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:52,033 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:53,037 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:54,078 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:55,085 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:56,143 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:57,147 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:58,152 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:20:59,218 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:21:00,223 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:21:01,229 waiting for hub to respond at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:43,777 starting /opt/work/tools/systemstat/gridstat
+2020-07-01 20:27:43,777 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '2', '--logfile', '/opt/work/gridstat.log']
+2020-07-01 20:27:43,778 checking status of http://selenium-hub:4444
+2020-07-01 20:27:43,778 starting at 2020-07-01 20:27:43.778100
+2020-07-01 20:27:43,778 ending at 2020-07-01 20:29:43.778100
+2020-07-01 20:27:44,169 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:44,170 0 of 2 nodes are attached
+2020-07-01 20:27:44,170 waiting on 2 node(s) to attach
+2020-07-01 20:27:45,244 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:45,244 0 of 2 nodes are attached
+2020-07-01 20:27:45,244 waiting on 2 node(s) to attach
+2020-07-01 20:27:46,251 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:46,251 0 of 2 nodes are attached
+2020-07-01 20:27:46,251 waiting on 2 node(s) to attach
+2020-07-01 20:27:47,257 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:47,258 0 of 2 nodes are attached
+2020-07-01 20:27:47,258 waiting on 2 node(s) to attach
+2020-07-01 20:27:48,263 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:48,264 1 of 2 nodes are attached
+2020-07-01 20:27:48,264 waiting on 1 node(s) to attach
+2020-07-01 20:27:49,269 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:49,269 1 of 2 nodes are attached
+2020-07-01 20:27:49,270 waiting on 1 node(s) to attach
+2020-07-01 20:27:50,276 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:50,276 1 of 2 nodes are attached
+2020-07-01 20:27:50,276 waiting on 1 node(s) to attach
+2020-07-01 20:27:51,282 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:51,282 1 of 2 nodes are attached
+2020-07-01 20:27:51,282 waiting on 1 node(s) to attach
+2020-07-01 20:27:52,288 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:52,288 1 of 2 nodes are attached
+2020-07-01 20:27:52,288 waiting on 1 node(s) to attach
+2020-07-01 20:27:53,294 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:53,294 1 of 2 nodes are attached
+2020-07-01 20:27:53,294 waiting on 1 node(s) to attach
+2020-07-01 20:27:54,299 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:54,299 1 of 2 nodes are attached
+2020-07-01 20:27:54,300 waiting on 1 node(s) to attach
+2020-07-01 20:27:55,305 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:55,305 1 of 2 nodes are attached
+2020-07-01 20:27:55,305 waiting on 1 node(s) to attach
+2020-07-01 20:27:56,311 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:56,311 1 of 2 nodes are attached
+2020-07-01 20:27:56,311 waiting on 1 node(s) to attach
+2020-07-01 20:27:57,316 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:57,316 1 of 2 nodes are attached
+2020-07-01 20:27:57,316 waiting on 1 node(s) to attach
+2020-07-01 20:27:58,321 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-01 20:27:58,321 1 of 2 nodes are attached
+2020-07-01 20:27:58,321 waiting on 1 node(s) to attach
+2020-07-03 12:32:36,992 starting /opt/work/tools/systemstat/gridstat
+2020-07-03 12:32:37,003 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '1', '--logfile', '/opt/work/gridstat.log']
+2020-07-03 12:32:37,003 checking status of http://selenium-hub:4444
+2020-07-03 12:32:37,004 starting at 2020-07-03 12:32:37.004008
+2020-07-03 12:32:37,004 ending at 2020-07-03 12:34:37.004008
+2020-07-03 12:32:37,514 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:32:37,515 0 of 1 nodes are attached
+2020-07-03 12:32:37,515 waiting on 1 node(s) to attach
+2020-07-03 12:32:38,521 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:32:38,522 0 of 1 nodes are attached
+2020-07-03 12:32:38,522 waiting on 1 node(s) to attach
+2020-07-03 12:32:39,528 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:32:39,528 0 of 1 nodes are attached
+2020-07-03 12:32:39,528 waiting on 1 node(s) to attach
+2020-07-03 12:32:40,534 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:32:40,534 1 of 1 nodes are attached
+2020-07-03 12:32:40,534 all nodes are attached
+2020-07-03 12:32:40,534 1 of 1 nodes are ready
+2020-07-03 12:32:40,534 all nodes are ready
+2020-07-03 12:33:40,256 starting /opt/work/tools/systemstat/gridstat
+2020-07-03 12:33:40,256 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '1', '--logfile', '/opt/work/gridstat.log']
+2020-07-03 12:33:40,256 checking status of http://selenium-hub:4444
+2020-07-03 12:33:40,256 starting at 2020-07-03 12:33:40.256347
+2020-07-03 12:33:40,256 ending at 2020-07-03 12:35:40.256347
+2020-07-03 12:33:40,262 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:33:40,262 1 of 1 nodes are attached
+2020-07-03 12:33:40,263 all nodes are attached
+2020-07-03 12:33:40,263 1 of 1 nodes are ready
+2020-07-03 12:33:40,263 all nodes are ready
+2020-07-03 12:38:27,725 starting /opt/work/tools/systemstat/gridstat
+2020-07-03 12:38:27,725 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '1', '--logfile', '/opt/work/gridstat.log']
+2020-07-03 12:38:27,725 checking status of http://selenium-hub:4444
+2020-07-03 12:38:27,726 starting at 2020-07-03 12:38:27.726066
+2020-07-03 12:38:27,726 ending at 2020-07-03 12:40:27.726066
+2020-07-03 12:38:27,731 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:38:27,732 1 of 1 nodes are attached
+2020-07-03 12:38:27,732 all nodes are attached
+2020-07-03 12:38:27,732 1 of 1 nodes are ready
+2020-07-03 12:38:27,732 all nodes are ready
+2020-07-03 12:40:45,929 starting /opt/work/tools/systemstat/gridstat
+2020-07-03 12:40:45,929 command line options: ['--verbose', '--stdout', '--url', 'http://selenium-hub:4444', '--nodes', '1', '--logfile', '/opt/work/gridstat.log']
+2020-07-03 12:40:45,929 checking status of http://selenium-hub:4444
+2020-07-03 12:40:45,929 starting at 2020-07-03 12:40:45.929733
+2020-07-03 12:40:45,929 ending at 2020-07-03 12:42:45.929733
+2020-07-03 12:40:45,935 hub is up at http://selenium-hub:4444/grid/api/hub
+2020-07-03 12:40:45,935 1 of 1 nodes are attached
+2020-07-03 12:40:45,935 all nodes are attached
+2020-07-03 12:40:45,935 1 of 1 nodes are ready
+2020-07-03 12:40:45,935 all nodes are ready
